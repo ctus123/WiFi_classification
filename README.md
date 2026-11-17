@@ -138,7 +138,7 @@ Scaler được fit trong từng fold qua Pipeline; PCA toàn dữ liệu chỉ 
 
 <div align="center">
 
-**Nhóm 5** · Nguyễn Cẩm Tú · Đoàn Đình Điền · Nguyễn Khoa
+ Nguyễn Cẩm Tú
 
 *Phân tích và khai thác dữ liệu · WiFi Localization*
 
