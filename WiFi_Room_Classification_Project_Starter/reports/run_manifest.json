@@ -1,0 +1,13 @@
+{
+  "python": "3.11.6 (tags/v3.11.6:8b6ee5b, Oct  2 2023, 14:57:12) [MSC v.1935 64 bit (AMD64)]",
+  "packages": {
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.0",
+    "seaborn": "0.13.2"
+  },
+  "data_sha256": "fd098d3fdc639bbac645308c02f2e580595849a2fb69e4a909629656db0c12d7",
+  "selected_by_train_cv": "AdaBoost",
+  "checks": "PASS: shape, schema, finite data, split, 10-fold, probabilities, metrics"
+}

@@ -1,0 +1,6 @@
+﻿Model,Best_params,CV_F1_mean,CV_F1_std,Grid_candidates
+KNN,"{'knn__n_neighbors': 7, 'knn__weights': 'distance'}",0.9844023540703327,0.007501698530605488,12
+Random Forest,"{'max_depth': None, 'min_samples_split': 5, 'n_estimators': 200}",0.9856219714501592,0.008863089021924711,12
+Naive Bayes,{'nb__var_smoothing': 1e-11},0.9831050024172432,0.011243394551467747,6
+AdaBoost,"{'estimator__max_depth': 3, 'learning_rate': 0.1, 'n_estimators': 200}",0.9856277538932859,0.010092981870172442,27
+SVM,"{'svm__C': 0.1, 'svm__kernel': 'linear'}",0.9831558324574319,0.012147762573955685,20

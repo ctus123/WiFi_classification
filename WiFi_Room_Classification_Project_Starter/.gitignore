@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+*.joblib
+*.pkl
+.verification/
+# Do not commit large/private raw datasets without team approval.
